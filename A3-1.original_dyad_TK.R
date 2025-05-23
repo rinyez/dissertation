@@ -1,4 +1,4 @@
-# Appendix A.
+# Appendix 3-1
 # Original TK model from Verner et al. (2016)
 # Translated by Jung Y. (University of California, Irvine)
 
